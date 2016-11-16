@@ -1,0 +1,1 @@
+../2x2x2_FW/mcuconf.h
